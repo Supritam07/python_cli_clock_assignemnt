@@ -1,0 +1,10 @@
+# Runtime alarm data and inter-process locks
+alarms*.json
+alarms*.json.lock
+alarms*.json.scheduler.lock
+
+# Python bytecode and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
